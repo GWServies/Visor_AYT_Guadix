@@ -433,7 +433,7 @@ var ZIAE = L.geoJson(ZIAE, {
 
 
 
-var foto_src= '<img src="https://github.com/GWServies/images/blob/master/guadix.jpg?fv_content=true&size_mode=5" height="100%" width="100%"/>';
+var foto_src= '<img src="https://github.com/GWServies/images/blob/master/guadix.jpg" height="100%" width="100%"/>';
 // PEPMF
 
 function getColor2(a) {
